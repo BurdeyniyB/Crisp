@@ -50,9 +50,6 @@ Crisp is a modern online fashion store offering the latest trends, exclusive dea
 5. The application will be running on http://localhost:\[port] or open index.html.
 
 ## Demo of site
-
-(Replace with actual images or a link to a demo if available)
-
 <p align="center">
   <img src="/crisp/img1.png" width="600" />
   <img src="/crisp/img2.png" width="600" />
