@@ -54,11 +54,11 @@ Crisp is a modern online fashion store offering the latest trends, exclusive dea
 (Replace with actual images or a link to a demo if available)
 
 <p align="center">
-  <img src="Crisp/crisp/img1.png" width="600" />
-  <img src="Crisp/crisp/img2.png" width="600" />
-  <img src="Crisp/crisp/img3.png" width="600" />
-  <img src="Crisp/crisp/img4.png" width="600" />
-  <img src="Crisp/crisp/img5.png" width="600" />
+  <img src="/crisp/img1.png" width="600" />
+  <img src="/crisp/img2.png" width="600" />
+  <img src="/crisp/img3.png" width="600" />
+  <img src="/crisp/img4.png" width="600" />
+  <img src="/crisp/img5.png" width="600" />
 </p>
 
 ## Usage
