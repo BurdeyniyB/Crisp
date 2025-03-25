@@ -75,9 +75,6 @@ Once the application is running, you can access it through your web browser.
 -   **HTML:** Used for the structure of the web pages.
 -   **CSS:** Custom styles for the layout and appearance of the store.
 -   **JavaScript:** Scripts for interactivity and dynamic features.
-    -   `js/yourscript1.js`: (Add descriptive names of javascript files and their functions)
-    -   `js/yourscript2.js`:
-    -   `js/yourscript3.js`:
 
 ### Backend:
 
